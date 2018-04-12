@@ -1,0 +1,4 @@
+1) Che cos'è GitHub e quali sono le sue caratteristiche?
+GitHub è un software utilizzato dai programmatori e altre persone che voglio condividere un progetto con diverse persone, e attraverso Git, che è un software per il controllo delle versioni di un file o un progetto, lavorare e modificare il progetto contemporaneamente.
+GitHub non funge solo come software condivisionale ma è anche un modo per tenere salvati tutti i tuoi progetti insieme.
+Inoltre ha anche delle funzionalità simili a quelle dei sociale, infatti, se una repository, cioè un progetto, è reso pubblico, una qualsiasi persona può visualizzarlo e commentare se ci sono problemi o se vuole dare consigli riguardo ad una funzionalità.
