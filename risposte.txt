@@ -13,3 +13,7 @@ Un branch, è una funzionalità prevista da GitHub che permette di modificare il
 
 4) Che cos'è e a cosa serve una issue?
 Una issue è un vero e proprio problema da risolvere relativo ad un commit fatto oppure ad una pull request, infatti, se un collaboratore si accorge di qualche problema relativo ad una funzionalità appena inserita, può aprire una issue, cioè aprire una discussione sul problema, e risolverlo insieme ad altri collaboratori, e non nel caso in cui la repository fosse pubblica.
+
+5) Cosa si fa quando si da il comando push in GitHub?
+Quando si da il comando push in GitHub, si inviano le modifiche effettuate ad un file o più file al progetto in remoto, e queste vengo apportate anche nella repository effettiva e non solo in locale.
+Infatti se si effettua solo il commit, che è il comando per confermare le modifiche ad un file o più file, le modifiche apportate rimarranno solo sul progetto in locale e non quello in remoto, perchè è il comando push che permette ad un collaboratore di inviare e apportare le modifiche alla repository in remoto.
