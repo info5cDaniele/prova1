@@ -2,3 +2,4 @@
 GitHub è un software utilizzato dai programmatori e altre persone che voglio condividere un progetto con diverse persone, e attraverso Git, che è un software per il controllo delle versioni di un file o un progetto, lavorare e modificare il progetto contemporaneamente.
 GitHub non funge solo come software condivisionale ma è anche un modo per tenere salvati tutti i tuoi progetti insieme.
 Inoltre ha anche delle funzionalità simili a quelle dei sociale, infatti, se una repository, cioè un progetto, è reso pubblico, una qualsiasi persona può visualizzarlo e commentare se ci sono problemi o se vuole dare consigli riguardo ad una funzionalità.
+Infine c'è la possibilità di creare progetti o pubblici o privati, aggiungere direttamente nella cartella il tipo di licenza che desideri utilizzare, e un file .gitignore che serve per far sapere, nel momento del push, quali file deve ignorare perchè magari possono essere file temporanei dell'IDE che si sta utilizzando
